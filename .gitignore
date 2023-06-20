@@ -153,3 +153,4 @@ cython_debug/
 
 #stuff that this program makes
 output/
+files/
